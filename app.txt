@@ -1,1 +1,2 @@
 Jenkins CI Demo Application
+CI pipeline enabled
