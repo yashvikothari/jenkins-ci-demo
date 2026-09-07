@@ -1,1 +1,1 @@
-Broken application
+Jenkins CI Demo Application
